@@ -1,0 +1,651 @@
+{
+  "quiz": [
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "options": ["Hyper Text Markup Language", "Home Tool Markup Language", "Hyperlinks and Text Markup Language", "Hyperlinking Text Mark Language"],
+      "answer": "Hyper Text Markup Language"
+    },
+    {
+      "id": 2,
+      "question": "What is the purpose of the <!DOCTYPE html> declaration?",
+      "options": ["It defines the document type", "It is a comment", "It is a script", "It is a hyperlink"],
+      "answer": "It defines the document type"
+    },
+    {
+      "id": 3,
+      "question": "What is a semantic HTML element?",
+      "options": ["An element that clearly describes its meaning", "An element used for styling", "An element for scripting", "An element for embedding"],
+      "answer": "An element that clearly describes its meaning"
+    },
+    {
+      "id": 4,
+      "question": "How do you create a hyperlink in HTML?",
+      "options": ["<a href='url'>link</a>", "<link url='url'>link</link>", "<url>link</url>", "<a>link</a>"],
+      "answer": "<a href='url'>link</a>"
+    },
+    {
+      "id": 5,
+      "question": "What is the difference between an ordered list and an unordered list?",
+      "options": ["Ordered lists are numbered, unordered lists are bulleted", "Ordered lists are bulleted, unordered lists are numbered", "Both are the same", "Ordered lists are alphabetical, unordered lists are numbered"],
+      "answer": "Ordered lists are numbered, unordered lists are bulleted"
+    },
+    {
+      "id": 6,
+      "question": "How do you embed an image in HTML?",
+      "options": ["<img src='url'>", "<image src='url'>", "<img href='url'>", "<img link='url'>"],
+      "answer": "<img src='url'>"
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of the alt attribute in the <img> tag?",
+      "options": ["To specify alternate text for an image", "To link to another page", "To apply a style", "To run a script"],
+      "answer": "To specify alternate text for an image"
+    },
+    {
+      "id": 8,
+      "question": "What does the <meta> tag do?",
+      "options": ["Provides metadata about the HTML document", "Links to a stylesheet", "Embeds an image", "Creates a form"],
+      "answer": "Provides metadata about the HTML document"
+    },
+    {
+      "id": 9,
+      "question": "How do you create a table in HTML?",
+      "options": ["<table><tr><td></td></tr></table>", "<table><row><cell></cell></row></table>", "<tbl><row><data></data></row></tbl>", "<table><data><row></row></data></table>"],
+      "answer": "<table><tr><td></td></tr></table>"
+    },
+    {
+      "id": 10,
+      "question": "How do you create a form in HTML?",
+      "options": ["<form></form>", "<form><input></input></form>", "<form><field></field></form>", "<form><data></data></form>"],
+      "answer": "<form></form>"
+    },
+    {
+      "id": 11,
+      "question": "What is the purpose of the <head> tag in HTML?",
+      "options": ["Contains metadata and links", "Contains the main content", "Contains scripts", "Contains the footer"],
+      "answer": "Contains metadata and links"
+    },
+    {
+      "id": 12,
+      "question": "What is the difference between a block-level and an inline element?",
+      "options": ["Block-level elements start on a new line and take up full width", "Inline elements start on a new line and take up full width", "Both start on a new line", "Both take up full width"],
+      "answer": "Block-level elements start on a new line and take up full width"
+    },
+    {
+      "id": 13,
+      "question": "How do you create a comment in HTML?",
+      "options": ["<!-- comment -->", "<! comment >", "<-- comment -->", "<- comment ->"],
+      "answer": "<!-- comment -->"
+    },
+    {
+      "id": 14,
+      "question": "What is the purpose of the <title> tag in HTML?",
+      "options": ["Defines the title of the document", "Defines the main content", "Defines the footer", "Defines a script"],
+      "answer": "Defines the title of the document"
+    },
+    {
+      "id": 15,
+      "question": "What is an HTML attribute?",
+      "options": ["Provides additional information about an element", "Defines the main content", "Runs a script", "Styles an element"],
+      "answer": "Provides additional information about an element"
+    },
+    {
+      "id": 16,
+      "question": "What is the purpose of the <footer> tag in HTML?",
+      "options": ["Defines the footer of a document", "Defines the header of a document", "Defines the main content", "Defines a script"],
+      "answer": "Defines the footer of a document"
+    },
+    {
+      "id": 17,
+      "question": "How do you create a line break in HTML?",
+      "options": ["<br>", "<lb>", "<break>", "<hr>"],
+      "answer": "<br>"
+    },
+    {
+      "id": 18,
+      "question": "What is the purpose of the <nav> tag in HTML?",
+      "options": ["Defines a navigation section", "Defines the main content", "Defines a form", "Defines a script"],
+      "answer": "Defines a navigation section"
+    },
+    {
+      "id": 19,
+      "question": "How do you create a checkbox in HTML?",
+      "options": ["<input type='checkbox'>", "<checkbox>", "<check>", "<input type='check'>"],
+      "answer": "<input type='checkbox'>"
+    },
+    {
+      "id": 20,
+      "question": "What is the purpose of the <section> tag in HTML?",
+      "options": ["Defines a section in a document", "Defines the header", "Defines a form", "Defines a script"],
+      "answer": "Defines a section in a document"
+    },
+    {
+      "id": 21,
+      "question": "What is the difference between the <div> and <span> tags?",
+      "options": ["<div> is a block-level element, <span> is an inline element", "<span> is a block-level element, <div> is an inline element", "Both are block-level elements", "Both are inline elements"],
+      "answer": "<div> is a block-level element, <span> is an inline element"
+    },
+    {
+      "id": 22,
+      "question": "How do you create a radio button in HTML?",
+      "options": ["<input type='radio'>", "<radio>", "<input type='radio' value='1'>", "<input type='button'>"],
+      "answer": "<input type='radio'>"
+    },
+    {
+      "id": 23,
+      "question": "What is the purpose of the <aside> tag in HTML?",
+      "options": ["Defines content aside from the main content", "Defines the header", "Defines a form", "Defines a script"],
+      "answer": "Defines content aside from the main content"
+    },
+    {
+      "id": 24,
+      "question": "How do you create a dropdown list in HTML?",
+      "options": ["<select><option></option></select>", "<dropdown><option></option></dropdown>", "<list><option></option></list>", "<select><list></list></select>"],
+      "answer": "<select><option></option></select>"
+    },
+    {
+      "id": 25,
+      "question": "What is the purpose of the <header> tag in HTML?",
+      "options": ["Defines the header of a document", "Defines the footer", "Defines the main content", "Defines a script"],
+      "answer": "Defines the header of a document"
+    },
+    {
+      "id": 26,
+      "question": "How do you create an ordered list in HTML?",
+      "options": ["<ol><li></li></ol>", "<ul><li></li></ul>", "<list><item></item></list>", "<order><item></item></order>"],
+      "answer": "<ol><li></li></ol>"
+    },
+    {
+      "id": 27,
+      "question": "What is the purpose of the <article> tag in HTML?",
+      "options": ["Defines an independent piece of content", "Defines the header", "Defines a form", "Defines a script"],
+      "answer": "Defines an independent piece of content"
+    },
+    {
+      "id": 28,
+      "question": "How do you create an input field in HTML?",
+      "options": ["<input>", "<field>", "<textbox>", "<inputfield>"],
+      "answer": "<input>"
+    },
+    {
+      "id": 29,
+      "question": "What is the purpose of the <em> tag in HTML?",
+      "options": ["Defines emphasized text", "Defines strong text", "Defines italic text", "Defines underlined text"],
+      "answer": "Defines emphasized text"
+    },
+    {
+      "id": 30,
+      "question": "How do you create a text area in HTML?",
+      "options": ["<textarea></textarea>", "<input type='textarea'>", "<text></text>", "<area></area>"],
+      "answer": "<textarea></textarea>"
+    },
+    {
+      "id": 31,
+      "question": "What is the purpose of the <strong> tag in HTML?",
+      "options": ["Defines strong text", "Defines emphasized text", "Defines bold text", "Defines underlined text"],
+      "answer": "Defines strong text"
+    },
+    {
+      "id": 32,
+      "question": "How do you create a button in HTML?",
+      "options": ["<button></button>", "<input type='button'>", "<btn></btn>", "<input type='btn'>"],
+      "answer": "<button></button>"
+    },
+    {
+      "id": 33,
+      "question": "What is the purpose of the <blockquote> tag in HTML?",
+      "options": ["Defines a section that is quoted from another source", "Defines bold text", "Defines a block of text", "Defines a section with large text"],
+      "answer": "Defines a section that is quoted from another source"
+    },
+    {
+      "id": 34,
+      "question": "What does CSS stand for?",
+      "options": ["Cascading Style Sheets", "Colorful Style Sheets", "Creative Style Sheets", "Computer Style Sheets"],
+      "answer": "Cascading Style Sheets"
+    },
+    {
+      "id": 35,
+      "question": "How do you apply a style to an element using an ID in CSS?",
+      "options": ["#id { style }", ".id { style }", "id { style }", "$id { style }"],
+      "answer": "#id { style }"
+    },
+    {
+      "id": 36,
+      "question": "How do you apply a style to an element using a class in CSS?",
+      "options": [".class { style }", "#class { style }", "class { style }", "$class { style }"],
+      "answer": ".class { style }"
+    },
+    {
+      "id": 37,
+      "question": "What is the purpose of the box model in CSS?",
+      "options": ["To describe the layout of elements", "To apply colors to elements", "To create animations", "To link to other pages"],
+      "answer": "To describe the layout of elements"
+    },
+    {
+      "id": 38,
+      "question": "How do you center a block element horizontally in CSS?",
+      "options": ["margin: 0 auto;", "text-align: center;", "align-items: center;", "justify-content: center;"],
+      "answer": "margin: 0 auto;"
+    },
+    {
+      "id": 39,
+      "question": "What does the 'display' property do in CSS?",
+      "options": ["Specifies how an element is displayed", "Specifies the color of an element", "Specifies the size of an element", "Specifies the font of an element"],
+      "answer": "Specifies how an element is displayed"
+    },
+    {
+      "id": 40,
+      "question": "How do you create a flex container in CSS?",
+      "options": ["display: flex;", "flex: 1;", "justify-content: center;", "align-items: center;"],
+      "answer": "display: flex;"
+    },
+    {
+      "id": 41,
+      "question": "What is the purpose of the 'position' property in CSS?",
+      "options": ["To specify the position of an element", "To specify the color of an element", "To specify the size of an element", "To specify the font of an element"],
+      "answer": "To specify the position of an element"
+    },
+    {
+      "id": 42,
+      "question": "How do you apply a background color in CSS?",
+      "options": ["background-color: color;", "color: background;", "bg-color: color;", "color: bg-color;"],
+      "answer": "background-color: color;"
+    },
+    {
+      "id": 43,
+      "question": "What does the 'z-index' property do in CSS?",
+      "options": ["Specifies the stack order of elements", "Specifies the color of an element", "Specifies the size of an element", "Specifies the font of an element"],
+      "answer": "Specifies the stack order of elements"
+    },
+    {
+      "id": 44,
+      "question": "How do you create a grid container in CSS?",
+      "options": ["display: grid;", "grid-template: 1;", "justify-content: center;", "align-items: center;"],
+      "answer": "display: grid;"
+    },
+    {
+      "id": 45,
+      "question": "What is the purpose of the 'float' property in CSS?",
+      "options": ["To position an element to the left or right", "To apply colors to elements", "To create animations", "To link to other pages"],
+      "answer": "To position an element to the left or right"
+    },
+    {
+      "id": 46,
+      "question": "How do you clear a float in CSS?",
+      "options": ["clear: both;", "clear: left;", "clear: right;", "clear: none;"],
+      "answer": "clear: both;"
+    },
+    {
+      "id": 47,
+      "question": "How do you change the font size in CSS?",
+      "options": ["font-size: size;", "text-size: size;", "font: size;", "size: font-size;"],
+      "answer": "font-size: size;"
+    },
+    {
+      "id": 48,
+      "question": "What is the purpose of the 'margin' property in CSS?",
+      "options": ["To create space around elements", "To apply colors to elements", "To create animations", "To link to other pages"],
+      "answer": "To create space around elements"
+    },
+    {
+      "id": 49,
+      "question": "How do you change the text color in CSS?",
+      "options": ["color: color;", "text-color: color;", "font-color: color;", "color: text-color;"],
+      "answer": "color: color;"
+    },
+    {
+      "id": 50,
+      "question": "What is the purpose of the 'padding' property in CSS?",
+      "options": ["To create space inside elements", "To apply colors to elements", "To create animations", "To link to other pages"],
+      "answer": "To create space inside elements"
+    },
+    {
+      "id": 51,
+      "question": "How do you create a border in CSS?",
+      "options": ["border: 1px solid black;", "border-width: 1px;", "border-style: solid;", "border-color: black;"],
+      "answer": "border: 1px solid black;"
+    },
+    {
+      "id": 52,
+      "question": "What does the 'opacity' property do in CSS?",
+      "options": ["Specifies the transparency of an element", "Specifies the color of an element", "Specifies the size of an element", "Specifies the font of an element"],
+      "answer": "Specifies the transparency of an element"
+    },
+    {
+      "id": 53,
+      "question": "How do you create a transition effect in CSS?",
+      "options": ["transition: property duration;", "animate: property duration;", "transition-effect: property duration;", "effect: property duration;"],
+      "answer": "transition: property duration;"
+    },
+    {
+      "id": 54,
+      "question": "What is the purpose of the 'media' rule in CSS?",
+      "options": ["To apply styles based on media type", "To apply colors to elements", "To create animations", "To link to other pages"],
+      "answer": "To apply styles based on media type"
+    },
+    {
+      "id": 55,
+      "question": "How do you create a keyframe animation in CSS?",
+      "options": ["@keyframes animation-name { }", "@animation keyframes { }", "@keyframe animation { }", "@animation-name keyframes { }"],
+      "answer": "@keyframes animation-name { }"
+    },
+    {
+      "id": 56,
+      "question": "What is the purpose of the 'flex-direction' property in CSS?",
+      "options": ["To define the direction of flex items", "To define the color of flex items", "To define the size of flex items", "To define the font of flex items"],
+      "answer": "To define the direction of flex items"
+    },{
+      "id": 58,
+      "question": "How do you apply a shadow to text in CSS?",
+      "options": ["text-shadow: h-offset v-offset blur color;", "box-shadow: h-offset v-offset blur color;", "shadow: h-offset v-offset blur color;", "font-shadow: h-offset v-offset blur color;"],
+      "answer": "text-shadow: h-offset v-offset blur color;"
+    },
+    {
+      "id": 59,
+      "question": "What is the purpose of the 'align-items' property in CSS Flexbox?",
+      "options": ["To align flex items along the cross axis", "To align flex items along the main axis", "To align flex items along the baseline", "To align flex items along the center"],
+      "answer": "To align flex items along the cross axis"
+    },
+    {
+      "id": 60,
+      "question": "How do you create a responsive layout in CSS?",
+      "options": ["Using media queries", "Using fixed widths", "Using fixed positions", "Using z-index"],
+      "answer": "Using media queries"
+    },
+    {
+      "id": 61,
+      "question": "What is the purpose of the 'justify-content' property in CSS Flexbox?",
+      "options": ["To align flex items along the main axis", "To align flex items along the cross axis", "To align flex items along the baseline", "To align flex items along the center"],
+      "answer": "To align flex items along the main axis"
+    },
+    {
+      "id": 62,
+      "question": "How do you set a minimum width for an element in CSS?",
+      "options": ["min-width: value;", "width: min-value;", "minimum-width: value;", "width: minimum;"],
+      "answer": "min-width: value;"
+    },
+    {
+      "id": 63,
+      "question": "What does the 'overflow' property do in CSS?",
+      "options": ["Specifies what happens if content overflows an element's box", "Specifies the background color", "Specifies the text alignment", "Specifies the font style"],
+      "answer": "Specifies what happens if content overflows an element's box"
+    },
+    {
+      "id": 64,
+      "question": "How do you create a linear gradient in CSS?",
+      "options": ["background: linear-gradient(direction, color1, color2);", "background: gradient(linear, direction, color1, color2);", "background-color: linear-gradient(direction, color1, color2);", "background-gradient: linear(direction, color1, color2);"],
+      "answer": "background: linear-gradient(direction, color1, color2);"
+    },
+    {
+      "id": 65,
+      "question": "How do you create a circular border in CSS?",
+      "options": ["border-radius: 50%;", "border: circle;", "border-style: round;", "border-width: circle;"],
+      "answer": "border-radius: 50%;"
+    },
+    {
+      "id": 66,
+      "question": "What is the purpose of the 'transform' property in CSS?",
+      "options": ["To apply 2D or 3D transformations to an element", "To change the background color", "To change the text alignment", "To create a flex container"],
+      "answer": "To apply 2D or 3D transformations to an element"
+    },
+    {
+      "id": 67,
+      "question": "How do you hide an element in CSS?",
+      "options": ["display: none;", "visibility: hidden;", "opacity: 0;", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "id": 84,
+      "question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+      "options": ["<script href='xxx.js'>", "<script name='xxx.js'>", "<script src='xxx.js'>", "<script file='xxx.js'>"],
+      "answer": "<script src='xxx.js'>"
+    },
+    {
+      "id": 85,
+      "question": "How do you write 'Hello World' in an alert box?",
+      "options": ["alert('Hello World');", "msgBox('Hello World');", "alertBox('Hello World');", "msg('Hello World');"],
+      "answer": "alert('Hello World');"
+    },
+    {
+      "id": 86,
+      "question": "How do you create a function in JavaScript?",
+      "options": ["function = myFunction()", "function:myFunction()", "function myFunction()", "createFunction myFunction()"],
+      "answer": "function myFunction()"
+    },
+    {
+      "id": 87,
+      "question": "How do you call a function named 'myFunction'?",
+      "options": ["call myFunction()", "call function myFunction()", "myFunction()", "myFunction(call)"],
+      "answer": "myFunction()"
+    },
+    {
+      "id": 88,
+      "question": "How to write an IF statement in JavaScript?",
+      "options": ["if i = 5 then", "if i == 5 then", "if (i == 5)", "if i = 5"],
+      "answer": "if (i == 5)"
+    },
+    {
+      "id": 89,
+      "question": "How to write an IF statement for executing some code if 'i' is NOT equal to 5?",
+      "options": ["if (i <> 5)", "if (i != 5)", "if i <> 5", "if i =! 5 then"],
+      "answer": "if (i != 5)"
+    },
+    {
+      "id": 90,
+      "question": "How does a WHILE loop start?",
+      "options": ["while (i <= 10; i++)", "while (i <= 10)", "while i = 1 to 10", "while (i)"],
+      "answer": "while (i <= 10)"
+    },
+    {
+      "id": 91,
+      "question": "How does a FOR loop start?",
+      "options": ["for (i = 0; i <= 5)", "for (i = 0; i <= 5; i++)", "for i = 1 to 5", "for (i <= 5; i++)"],
+      "answer": "for (i = 0; i <= 5; i++)"
+    },
+    {
+      "id": 92,
+      "question": "How can you add a comment in JavaScript?",
+      "options": ["'This is a comment", "// This is a comment", "<!-- This is a comment -->", "comment: 'This is a comment'"],
+      "answer": "// This is a comment"
+    },
+    {
+      "id": 93,
+      "question": "How can you add a multi-line comment in JavaScript?",
+      "options": ["'This comment spans multiple lines", "// This comment spans multiple lines", "/* This comment spans multiple lines */", "<!-- This comment spans multiple lines -->"],
+      "answer": "/* This comment spans multiple lines */"
+    },
+    {
+      "id": 94,
+      "question": "What is the correct way to write a JavaScript array?",
+      "options": ["var colors = 'red', 'green', 'blue'", "var colors = 1 = ('red'), 2 = ('green'), 3 = ('blue')", "var colors = (1:'red', 2:'green', 3:'blue')", "var colors = ['red', 'green', 'blue']"],
+      "answer": "var colors = ['red', 'green', 'blue']"
+    },
+    {
+      "id": 95,
+      "question": "How do you round the number 7.25 to the nearest integer?",
+      "options": ["Math.round(7.25)", "Math.rnd(7.25)", "round(7.25)", "rnd(7.25)"],
+      "answer": "Math.round(7.25)"
+    },
+    {
+      "id": 96,
+      "question": "How do you find the number with the highest value of x and y?",
+      "options": ["Math.max(x, y)", "Math.ceil(x, y)", "top(x, y)", "ceil(x, y)"],
+      "answer": "Math.max(x, y)"
+    },
+    {
+      "id": 97,
+      "question": "What is the correct JavaScript syntax for opening a new window called 'w2'?",
+      "options": ["w2 = window.new('http://www.w3schools.com');", "w2 = window.open('http://www.w3schools.com');", "w2 = window.create('http://www.w3schools.com');", "w2 = window.newWindow('http://www.w3schools.com');"],
+      "answer": "w2 = window.open('http://www.w3schools.com');"
+    },
+    {
+      "id": 98,
+      "question": "How do you write a JavaScript object?",
+      "options": ["var person = {firstName:'John', lastName:'Doe'};", "var person = (firstName:'John', lastName:'Doe');", "var person = firstName:'John', lastName:'Doe';", "var person = [firstName:'John', lastName:'Doe'];"],
+      "answer": "var person = {firstName:'John', lastName:'Doe'};"
+    },
+    {
+      "id": 99,
+      "question": "How do you create a function that receives two numbers as arguments and returns their sum?",
+      "options": ["function sum(a, b) { return a + b; }", "function sum(a, b) return a + b;", "function sum(a, b) { return a - b; }", "function sum(a, b) return a - b;"],
+      "answer": "function sum(a, b) { return a + b; }"
+    },
+    {
+      "id": 100,
+      "question": "How do you write an array of strings in JavaScript?",
+      "options": ["var colors = 'red', 'green', 'blue';", "var colors = ['red', 'green', 'blue'];", "var colors = (1:'red', 2:'green', 3:'blue');", "var colors = {'red', 'green', 'blue'};"],
+      "answer": "var colors = ['red', 'green', 'blue'];"
+    },
+    {
+      "id": 101,
+      "question": "How do you create an object in JavaScript?",
+      "options": ["var person = {firstName:'John', lastName:'Doe'};", "var person = (firstName:'John', lastName:'Doe');", "var person = firstName:'John', lastName:'Doe';", "var person = [firstName:'John', lastName:'Doe'];"],
+      "answer": "var person = {firstName:'John', lastName:'Doe'};"
+    },
+    {
+      "id": 102,
+      "question": "How do you convert a string to a number in JavaScript?",
+      "options": ["Number('123')", "String(123)", "parseInt('123')", "Both Number('123') and parseInt('123')"],
+      "answer": "Both Number('123') and parseInt('123')"
+    },
+    {
+      "id": 103,
+      "question": "How do you check if a variable is an array in JavaScript?",
+      "options": ["Array.isArray(variable)", "isArray(variable)", "variable.isArray()", "Array.isType(variable)"],
+      "answer": "Array.isArray(variable)"
+    },
+    {
+      "id": 104,
+      "question": "How do you add an element to the end of an array in JavaScript?",
+      "options": ["array.push(element)", "array.add(element)", "array.append(element)", "array.insert(element)"],
+      "answer": "array.push(element)"
+    },
+    {
+      "id": 105,
+      "question": "How do you remove the last element from an array in JavaScript?",
+      "options": ["array.pop()", "array.removeLast()", "array.remove()", "array.popLast()"],
+      "answer": "array.pop()"
+    },
+    {
+      "id": 106,
+      "question": "How do you convert a number to a string in JavaScript?",
+      "options": ["number.toString()", "String(number)", "number.toText()", "Both number.toString() and String(number)"],
+      "answer": "Both number.toString() and String(number)"
+    },
+    {
+      "id": 107,
+      "question": "How do you create a new date object in JavaScript?",
+      "options": ["var date = new Date()", "var date = Date()", "var date = new Date;", "var date = Date.new()"],
+      "answer": "var date = new Date()"
+    },
+    {
+      "id": 108,
+      "question": "How do you find the length of a string in JavaScript?",
+      "options": ["string.length", "string.size", "string.count", "string.len"],
+      "answer": "string.length"
+    },
+    {
+      "id": 109,
+      "question": "How do you concatenate two strings in JavaScript?",
+      "options": ["string1 + string2", "string1.concat(string2)", "Both string1 + string2 and string1.concat(string2)", "string1 & string2"],
+      "answer": "Both string1 + string2 and string1.concat(string2)"
+    },
+    {
+      "id": 110,
+      "question": "How do you get the current year using JavaScript?",
+      "options": ["new Date().getYear()", "new Date().getFullYear()", "new Date().getCurrentYear()", "new Date().year()"],
+      "answer": "new Date().getFullYear()"
+    },
+    {
+      "id": 111,
+      "question": "How do you get a random number between 0 and 1 in JavaScript?",
+      "options": ["Math.random()", "Math.rand()", "random()", "rand()"],
+      "answer": "Math.random()"
+    },
+    {
+      "id": 112,
+      "question": "How do you declare a JavaScript variable?",
+      "options": ["var variableName;", "variable variableName;", "declare variableName;", "Both var variableName; and variable variableName;"],
+      "answer": "var variableName;"
+    },
+    {
+      "id": 113,
+      "question": "How do you check if a variable is undefined in JavaScript?",
+      "options": ["typeof variable === 'undefined'", "variable == null", "variable === undefined", "Both typeof variable === 'undefined' and variable === undefined"],
+      "answer": "Both typeof variable === 'undefined' and variable === undefined"
+    },
+    {
+      "id": 114,
+      "question": "How do you convert a JSON string into a JavaScript object?",
+      "options": ["JSON.parse(string)", "JSON.stringify(string)", "parseJSON(string)", "string.toObject()"],
+      "answer": "JSON.parse(string)"
+    },
+    {
+      "id": 115,
+      "question": "How do you convert a JavaScript object to a JSON string?",
+      "options": ["JSON.parse(object)", "JSON.stringify(object)", "stringifyJSON(object)", "object.toString()"],
+      "answer": "JSON.stringify(object)"
+    },
+    {
+      "id": 116,
+      "question": "How do you add a property to an object in JavaScript?",
+      "options": ["object.property = value;", "object.addProperty(property, value);", "object.property(value);", "object.setProperty(property, value);"],
+      "answer": "object.property = value;"
+    },
+    {
+      "id": 117,
+      "question": "How do you remove a property from an object in JavaScript?",
+      "options": ["delete object.property;", "remove object.property;", "object.remove(property);", "object.deleteProperty(property);"],
+      "answer": "delete object.property;"
+    },
+    {
+      "id": 118,
+      "question": "How do you iterate over all properties of an object in JavaScript?",
+      "options": ["for (var property in object)", "for (var property of object)", "object.forEach(property)", "object.each(property)"],
+      "answer": "for (var property in object)"
+    },
+    {
+      "id": 119,
+      "question": "How do you create a JavaScript class?",
+      "options": ["class MyClass {}", "function MyClass() {}", "class MyClass() {}", "create class MyClass {}"],
+      "answer": "class MyClass {}"
+    },
+    {
+      "id": 120,
+      "question": "How do you create a new instance of a JavaScript class?",
+      "options": ["new MyClass()", "create MyClass()", "MyClass.new()", "instantiate MyClass()"],
+      "answer": "new MyClass()"
+    },
+    {
+      "id": 121,
+      "question": "How do you add a method to a JavaScript class?",
+      "options": ["class MyClass { methodName() {} }", "class MyClass { function methodName() {} }", "class MyClass { addMethod(methodName) {} }", "class MyClass { createMethod(methodName) {} }"],
+      "answer": "class MyClass { methodName() {} }"
+    },
+    {
+      "id": 122,
+      "question": "How do you add an event listener to a DOM element in JavaScript?",
+      "options": ["element.addEventListener('event', function);", "element.attachEvent('event', function);", "element.bind('event', function);", "element.on('event', function);"],
+      "answer": "element.addEventListener('event', function);"
+    },
+    {
+      "id": 123,
+      "question": "How do you remove an event listener from a DOM element in JavaScript?",
+      "options": ["element.removeEventListener('event', function);", "element.detachEvent('event', function);", "element.unbind('event', function);", "element.off('event', function);"],
+      "answer": "element.removeEventListener('event', function);"
+    },
+    {
+      "id": 124,
+      "question": "How do you prevent the default action of an event in JavaScript?",
+      "options": ["event.preventDefault();", "event.stopDefault();", "event.stopAction();", "event.preventAction();"],
+      "answer": "event.preventDefault();"
+    },
+    {
+      "id": 125,
+      "question": "How do you stop event propagation in JavaScript?",
+      "options": ["event.stopPropagation();", "event.stopPropagationEvent();", "event.preventPropagation();", "event.cancelPropagation();"],
+      "answer": "event.stopPropagation();"
+    }
+  ]
+}
